@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "sudo-windows": {
+      "commandName": "Project",
+      "commandLineArgs": "cmd.exe /K echo hi"
+    }
+  }
+}

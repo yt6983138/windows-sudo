@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cQcb83+uTi8a/3+q/pcN0DkDxJHp7OrUAgBioGHWwz5+w6fIpL3xCeDXi6INQWnl8k2p13ZrLSQPwyIKFTWY3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tgg\\source\\repos\\sudo-windows\\sudo-windows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tgg\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22000.28\\microsoft.windows.sdk.net.ref.10.0.22000.28.nupkg.sha512"
+  ],
+  "logs": []
+}

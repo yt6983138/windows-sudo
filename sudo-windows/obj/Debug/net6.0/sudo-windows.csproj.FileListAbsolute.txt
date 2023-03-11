@@ -1,0 +1,16 @@
+C:\Users\tgg\source\repos\sudo-windows\obj\Debug\net6.0\sudo-windows.csproj.AssemblyReference.cache
+C:\Users\tgg\source\repos\sudo-windows\obj\Debug\net6.0\sudo-windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgg\source\repos\sudo-windows\obj\Debug\net6.0\sudo-windows.AssemblyInfoInputs.cache
+C:\Users\tgg\source\repos\sudo-windows\obj\Debug\net6.0\sudo-windows.AssemblyInfo.cs
+C:\Users\tgg\source\repos\sudo-windows\obj\Debug\net6.0\sudo-windows.csproj.CoreCompileInputs.cache
+C:\Users\tgg\source\repos\sudo-windows\bin\Debug\net6.0\sudo-windows.exe
+C:\Users\tgg\source\repos\sudo-windows\bin\Debug\net6.0\sudo-windows.dll.config
+C:\Users\tgg\source\repos\sudo-windows\bin\Debug\net6.0\sudo-windows.deps.json
+C:\Users\tgg\source\repos\sudo-windows\bin\Debug\net6.0\sudo-windows.runtimeconfig.json
+C:\Users\tgg\source\repos\sudo-windows\bin\Debug\net6.0\sudo-windows.dll
+C:\Users\tgg\source\repos\sudo-windows\bin\Debug\net6.0\sudo-windows.pdb
+C:\Users\tgg\source\repos\sudo-windows\obj\Debug\net6.0\sudo-windows.dll
+C:\Users\tgg\source\repos\sudo-windows\obj\Debug\net6.0\refint\sudo-windows.dll
+C:\Users\tgg\source\repos\sudo-windows\obj\Debug\net6.0\sudo-windows.pdb
+C:\Users\tgg\source\repos\sudo-windows\obj\Debug\net6.0\sudo-windows.genruntimeconfig.cache
+C:\Users\tgg\source\repos\sudo-windows\obj\Debug\net6.0\ref\sudo-windows.dll
